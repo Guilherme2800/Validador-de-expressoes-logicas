@@ -1,4 +1,4 @@
-# Validador-de-express-es-logicas
+# Validador-de-expressoes-logicas
 
 Este programa realiza a validação se sua expressão lógica está construida de forma correta. 
 
